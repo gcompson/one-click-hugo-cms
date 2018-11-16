@@ -1,5 +1,5 @@
 ---
-title: 'Dad, would you like a coffee site?'
+title: 'Dad, would you like a website?'
 subtitle: You could write about the best coffee in Rayleigh
 image: /img/home-jumbotron.jpg
 blurb:
